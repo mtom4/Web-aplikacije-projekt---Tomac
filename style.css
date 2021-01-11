@@ -1,5 +1,6 @@
 body, html,main {
-	font-family: "Times New Roman", Times, serif;
+	font-family: "Kollektif";
+	src: url(font/Kollektif.ttf)
 	margin: 0;
 	font-size: 16px;
 	color:white;
